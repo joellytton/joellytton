@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá sou o joellytton 👋
 
-<!--
-**joellytton/joellytton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+-------------
 
-Here are some ideas to get you started:
+* 🌍  Estou morando em Rio Branco-AC, Brasil
+* ✉️   Você pode entrar em contato comigo em [joellytton25@gmail.com](mailto:joellytton25@gmail.com)
+* 🚀  Atualmente estou trabalhando na [lampp-it](https://www.lampp-it.com.br/)
+* 🧠  Estou aprendendo ReactJs
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/joellytton">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joellytton&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joellytton&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> &nbsp; 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp;
+</div><br/>
